@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Francesco De Meo!
 
-<!--
-**Francesco17-tr/Francesco17-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Who I Am
 
-Here are some ideas to get you started:
+I am a cybersecurity student at HackAcademy with a Master of Science in Intelligence and Emerging Technologies. Passionate about cybersecurity, technology, and everything related to data protection and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 What I Like
+
+🔍 Cybersecurity & Intelligence
+
+📖 Reading books on technology, intelligence, and personal development
+
+🏋️‍♂️ Going to the gym to stay active
+
+🚀 Projects
+
+Here you will find projects related to cybersecurity, CTF (Capture The Flag), threat analysis, and more.
+
+📫 Contact Me
+
+If you want to collaborate or simply discuss cybersecurity, reach out to me on:
+
+LinkedIn
